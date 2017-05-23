@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/10 15:45:33.000.706,=C:\Users\Areco\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/10 15:50:36.000.282,C:\Users\Areco\Documents\RAD Studio\Projects\Unit1.pas=C:\Projetos\DXE5\Trunk\Testes\SpringCollections\SpringCollection.Exemplo.pas</Transaction>
+    <Transaction>2017/05/10 15:50:36.000.282,C:\Users\Areco\Documents\RAD Studio\Projects\Unit1.dfm=C:\Projetos\DXE5\Trunk\Testes\SpringCollections\SpringCollection.Exemplo.dfm</Transaction>
+    <Transaction>2017/05/10 15:50:43.000.117,=C:\Users\Areco\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/10 15:51:01.000.069,=C:\Users\Areco\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/10 15:51:10.000.830,C:\Users\Areco\Documents\RAD Studio\Projects\Unit1.pas=C:\Projetos\DXE5\Trunk\Testes\SpringCollections\Pessoa.Intf.pas</Transaction>
+    <Transaction>2017/05/10 15:51:56.000.874,C:\Projetos\DXE5\Trunk\Testes\SpringCollections\Pessoa.Intf.pas=C:\Projetos\DXE5\Trunk\Testes\SpringCollections\Pessoa.Model.Intf.pas</Transaction>
+    <Transaction>2017/05/10 15:52:22.000.992,=C:\Users\Areco\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/05/10 15:52:36.000.068,C:\Users\Areco\Documents\RAD Studio\Projects\Unit1.pas=C:\Projetos\DXE5\Trunk\Testes\SpringCollections\Pessoa.Model.Impl.pas</Transaction>
+    <Transaction>2017/05/10 15:57:49.000.719,C:\Users\Areco\Documents\RAD Studio\Projects\Project2.dproj=C:\Projetos\DXE5\Trunk\Testes\SpringCollections\SpringCollectionExemplo.dproj</Transaction>
+    <Transaction>2017/05/10 16:14:57.000.019,=C:\Projetos\FastMM\FastMM4.pas</Transaction>
+    <Transaction>2017/05/10 16:14:57.000.046,=C:\Projetos\FastMM\FastMM4Messages.pas</Transaction>
+  </Transactions>
+</BorlandProject>
